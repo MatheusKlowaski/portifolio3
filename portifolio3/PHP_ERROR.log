@@ -1,0 +1,204 @@
+[05-Nov-2024 19:00:56 Europe/Berlin] mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php:8
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\BD_connect.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'devweb')
+#1 C:\xampp\htdocs\estudo\portifolio3\new_user.php(3): include('C:\\xampp\\htdocs...')
+#2 {main}
+[05-Nov-2024 19:00:56 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 8
+[05-Nov-2024 19:00:56 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\new_user.php:8
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\new_user.php(8): mysqli_query(NULL, 'select * from e...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 8
+[05-Nov-2024 19:04:22 Europe/Berlin] mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php:8
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\BD_connect.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'devweb')
+#1 C:\xampp\htdocs\estudo\portifolio3\new_user.php(3): include('C:\\xampp\\htdocs...')
+#2 {main}
+[05-Nov-2024 19:04:22 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:04:22 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\new_user.php:9
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\new_user.php(9): mysqli_query(NULL, 'select * from e...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:06:54 Europe/Berlin] mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php:8
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\BD_connect.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'devweb')
+#1 C:\xampp\htdocs\estudo\portifolio3\new_user.php(3): include('C:\\xampp\\htdocs...')
+#2 {main}
+[05-Nov-2024 19:06:54 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:06:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\new_user.php:9
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\new_user.php(9): mysqli_query(NULL, 'select * from e...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:06:58 Europe/Berlin] mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php:8
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\BD_connect.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'devweb')
+#1 C:\xampp\htdocs\estudo\portifolio3\new_user.php(3): include('C:\\xampp\\htdocs...')
+#2 {main}
+[05-Nov-2024 19:06:58 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:06:58 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\new_user.php:9
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\new_user.php(9): mysqli_query(NULL, 'select * from e...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:09:14 Europe/Berlin] mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php:8
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\BD_connect.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'devweb')
+#1 C:\xampp\htdocs\estudo\portifolio3\new_user.php(3): include('C:\\xampp\\htdocs...')
+#2 {main}
+[05-Nov-2024 19:09:14 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:09:14 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\new_user.php:9
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\new_user.php(9): mysqli_query(NULL, 'select * from e...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:10:52 Europe/Berlin] mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php:8
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\BD_connect.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'devweb')
+#1 C:\xampp\htdocs\estudo\portifolio3\new_user.php(3): include('C:\\xampp\\htdocs...')
+#2 {main}
+[05-Nov-2024 19:10:52 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:10:52 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\new_user.php:9
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\new_user.php(9): mysqli_query(NULL, 'select * from e...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:15:15 Europe/Berlin] mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php:8
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\BD_connect.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'devweb')
+#1 C:\xampp\htdocs\estudo\portifolio3\new_user.php(3): include('C:\\xampp\\htdocs...')
+#2 {main}
+[05-Nov-2024 19:15:15 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php on line 12
+[05-Nov-2024 19:15:15 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:15:15 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\new_user.php:9
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\new_user.php(9): mysqli_query(NULL, 'select * from e...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:16:34 Europe/Berlin] mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php:8
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\BD_connect.php(8): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'devweb')
+#1 C:\xampp\htdocs\estudo\portifolio3\new_user.php(3): include('C:\\xampp\\htdocs...')
+#2 {main}
+[05-Nov-2024 19:16:34 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\estudo\portifolio3\BD_connect.php on line 12
+[05-Nov-2024 19:16:34 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 19:16:34 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\new_user.php:9
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\new_user.php(9): mysqli_query(NULL, 'select * from e...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\new_user.php on line 9
+[05-Nov-2024 21:18:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 14
+[05-Nov-2024 21:18:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 15
+[05-Nov-2024 21:18:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 16
+[05-Nov-2024 21:18:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 17
+[05-Nov-2024 21:18:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 18
+[05-Nov-2024 21:18:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 19
+[05-Nov-2024 21:18:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 14
+[05-Nov-2024 21:18:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 15
+[05-Nov-2024 21:18:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 16
+[05-Nov-2024 21:18:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 17
+[05-Nov-2024 21:18:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 18
+[05-Nov-2024 21:18:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 19
+[05-Nov-2024 21:28:02 Europe/Berlin] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 21
+[05-Nov-2024 21:59:02 Europe/Berlin] PHP Warning:  include(showusers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 31
+[05-Nov-2024 21:59:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'showusers.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 31
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 50
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 50
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 51
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 51
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 52
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 52
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 53
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 53
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 54
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 54
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 56
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 56
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 57
+[06-Nov-2024 03:11:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 57
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:07:01 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 55
+[06-Nov-2024 04:32:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "Não" in C:\xampp\htdocs\estudo\portifolio3\homeadm.php:53
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 53
+[06-Nov-2024 04:33:24 Europe/Berlin] PHP Warning:  Undefined variable $change in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 66
+[06-Nov-2024 04:33:36 Europe/Berlin] PHP Warning:  Undefined variable $change in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 66
+[06-Nov-2024 04:34:42 Europe/Berlin] PHP Warning:  Undefined variable $change in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 66
+[06-Nov-2024 04:34:43 Europe/Berlin] PHP Warning:  Undefined variable $change in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 66
+[06-Nov-2024 04:34:43 Europe/Berlin] PHP Warning:  Undefined variable $change in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 66
+[06-Nov-2024 04:34:43 Europe/Berlin] PHP Warning:  Undefined variable $change in C:\xampp\htdocs\estudo\portifolio3\homeadm.php on line 66
+[06-Nov-2024 04:50:42 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\clevel.php on line 4
+[06-Nov-2024 04:50:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\clevel.php on line 4
+[06-Nov-2024 04:50:42 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\clevel.php on line 5
+[06-Nov-2024 04:50:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\clevel.php on line 5
+[06-Nov-2024 04:53:09 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\clevel.php on line 4
+[06-Nov-2024 04:53:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\clevel.php on line 4
+[06-Nov-2024 04:53:09 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\estudo\portifolio3\clevel.php on line 5
+[06-Nov-2024 04:53:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\clevel.php on line 5
+[06-Nov-2024 05:22:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in C:\xampp\htdocs\estudo\portifolio3\home.php on line 25
+[06-Nov-2024 17:09:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 14
+[06-Nov-2024 17:09:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 15
+[06-Nov-2024 17:09:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 16
+[06-Nov-2024 17:09:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 17
+[06-Nov-2024 17:09:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 18
+[06-Nov-2024 17:09:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 19
+[06-Nov-2024 18:40:28 Europe/Berlin] PHP Warning:  Undefined array key "mensagem" in C:\xampp\htdocs\estudo\portifolio3\msg.php on line 10
+[06-Nov-2024 18:40:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "exeption" not found in C:\xampp\htdocs\estudo\portifolio3\msg.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\msg.php on line 17
+[06-Nov-2024 18:40:30 Europe/Berlin] PHP Warning:  Undefined array key "mensagem" in C:\xampp\htdocs\estudo\portifolio3\msg.php on line 10
+[06-Nov-2024 18:40:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "exeption" not found in C:\xampp\htdocs\estudo\portifolio3\msg.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\msg.php on line 17
+[06-Nov-2024 18:40:57 Europe/Berlin] PHP Warning:  Undefined array key "texto" in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 7
+[06-Nov-2024 18:41:30 Europe/Berlin] PHP Warning:  Undefined array key "texto" in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 7
+[06-Nov-2024 18:53:24 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 10
+[06-Nov-2024 18:53:24 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\msgread.php:10
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\msgread.php(10): mysqli_query(NULL, 'select texto fr...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 10
+[06-Nov-2024 18:53:50 Europe/Berlin] PHP Warning:  include(bd_connect): Failed to open stream: No such file or directory in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 2
+[06-Nov-2024 18:53:50 Europe/Berlin] PHP Warning:  include(): Failed opening 'bd_connect' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 2
+[06-Nov-2024 18:53:50 Europe/Berlin] PHP Warning:  Undefined variable $con in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 11
+[06-Nov-2024 18:53:50 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\xampp\htdocs\estudo\portifolio3\msgread.php:11
+Stack trace:
+#0 C:\xampp\htdocs\estudo\portifolio3\msgread.php(11): mysqli_query(NULL, 'select texto fr...')
+#1 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 11
+[06-Nov-2024 18:57:32 Europe/Berlin] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 17
+[06-Nov-2024 18:57:49 Europe/Berlin] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 17
+[06-Nov-2024 18:58:04 Europe/Berlin] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\estudo\portifolio3\msgread.php on line 17
+[06-Nov-2024 19:09:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "exeption" not found in C:\xampp\htdocs\estudo\portifolio3\msg.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\estudo\portifolio3\msg.php on line 17
+[06-Nov-2024 19:15:42 Europe/Berlin] PHP Warning:  Undefined array key "mensagem" in C:\xampp\htdocs\estudo\portifolio3\msg.php on line 10
+[06-Nov-2024 19:16:09 Europe/Berlin] PHP Warning:  Undefined array key "mensagem" in C:\xampp\htdocs\estudo\portifolio3\msg.php on line 10
+[06-Nov-2024 19:43:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 14
+[06-Nov-2024 19:43:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 15
+[06-Nov-2024 19:43:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 16
+[06-Nov-2024 19:43:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 17
+[06-Nov-2024 19:43:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 18
+[06-Nov-2024 19:43:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 19
+[06-Nov-2024 19:43:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 14
+[06-Nov-2024 19:43:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 15
+[06-Nov-2024 19:43:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 16
+[06-Nov-2024 19:43:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 17
+[06-Nov-2024 19:43:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 18
+[06-Nov-2024 19:43:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\estudo\portifolio3\auth.php on line 19

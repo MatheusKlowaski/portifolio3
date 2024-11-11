@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color:  #474747;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color:  #474747;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between; /* serve pra dar espacos entre a logo e os intes da nav bar */
+    align-items: center;
+    background-color: #333; /* background navbar */
+    padding: 10px 20px; /* padggind da nav bar */
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center; /* serve pra centralizar */
+    margin: 0 auto; /* tira a margin e dixa no centro */
+    padding: 0;
+    flex: 1; /* faz ocupar o tamanho necessário pra ficar bonitinho */
+}
+
+.nav-list li {
+    margin: 0 20px; /* espaçamento entre os links */
+}
+    
+.nav-list a {
+    color: white; /* cor do texto */
+    text-decoration: none;
+    font-size: 18px;
+}
+    
+.nav-list a:hover {
+    color: #ddd; /* cor quando passar por cima o cursor*/
+}
+    
+    /* style da nav bar */
+.navbar-logo {
+    width: 50px; /*ajustar o tamanho */
+    height: 50px;
+    border-radius: 50%; /*  pra deixar a logo redondinha*/
+    object-fit: cover; /* não serve no chat gpt */
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0d0d1d;
+    color: #fff;
+}
+
+.form-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #3b2f4b;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #c5cbe3;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+input[type="email"],
+input[type="senha"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.radio-group {
+    margin-bottom: 20px;
+}
+
+.radio-group label {
+    margin-right: 15px;
+    font-size: 14px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5a73f4;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+}
+
+button:hover {
+    background-color: #3a56c1;
+}
+

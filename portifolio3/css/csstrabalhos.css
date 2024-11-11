@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.coluna{
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px 0;
+    
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.botão1{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.legendas-videos{
+    text-align: center;
+    color: white;
+}

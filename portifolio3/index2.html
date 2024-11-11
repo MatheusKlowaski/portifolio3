@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style2.css">
+    <title>Portifólio</title>
+   
+<script type="text/javascript">
+    (function(){
+        emailjs.init("service_crovo2p"); 
+    })();
+</script>
+
+
+</head>
+<body>
+    
+
+<nav class="navbar">
+        <ul class="nav-list">
+           
+            <li><a href="index1.html">Voltar</a></li>
+           
+        </ul>
+    </nav>
+    
+    <div class="form-container">
+        <h2>SEUS DADOS</h2>
+        <form id="contact-form">
+    
+            <label for="name">Nome</label>
+            <input type="text" id="name" name="name" placeholder="Seu nome" required>
+
+            <label for="email">E-mail</label>
+            <input type="email" id="email" name="email" placeholder="Seu e-mail" required>
+    
+            <label>Orçamento</label>
+            <div class="radio-group">
+                <input type="radio" id="Serviços de Rádio" name="Orçamento" value="">
+                <label for="serviços-de-radio">Serviços de Rádio</label>
+    
+                <input type="radio" id="Comentarista" name="Orçamento" value="">
+                <label for="comentarista">Serviços de comentarista</label>
+
+            </div>
+    
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" name="mensagem" placeholder="Escreva sua mensagem..." required></textarea>
+    
+            <button type="submit">ENVIAR E-MAIL</button>
+        </form>
+    </div>
+    
+    <script src="javascript/script.js" defer></script>
+
+
+
+</body>
+</html>
